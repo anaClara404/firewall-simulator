@@ -1,0 +1,26 @@
+[
+  {
+    "source_ip": "10.0.0.10",
+    "destination_ip": "192.168.0.1",
+    "port": 80,
+    "protocol": "TCP"
+  },
+  {
+    "source_ip": "10.0.0.11",
+    "destination_ip": "192.168.0.1",
+    "port": 23,
+    "protocol": "TCP"
+  },
+  {
+    "source_ip": "10.0.0.12",
+    "destination_ip": "8.8.8.8",
+    "port": 53,
+    "protocol": "UDP"
+  },
+  {
+    "source_ip": "10.0.0.13",
+    "destination_ip": "192.168.0.1",
+    "port": 22,
+    "protocol": "TCP"
+  }
+]

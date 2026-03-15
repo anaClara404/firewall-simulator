@@ -30,8 +30,7 @@ firewall_simulator/
 │   │   └── statistics.py
 │   │
 │   └── simulation/ # A ADICIONAR!
-│       ├── packet_generator.py
-│       └── scenarios.py
+│       └── packet_generator.py
 │
 ├── data/
 │   ├── rules.json
